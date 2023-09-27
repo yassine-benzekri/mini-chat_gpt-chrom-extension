@@ -1,0 +1,2 @@
+// DOM elements
+"use strict";
